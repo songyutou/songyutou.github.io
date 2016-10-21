@@ -271,7 +271,7 @@ xyz.scrollTurn=function(){
 	}});
 	xyz.sa.to({},0.4,{});
 	xyz.sa.add('point3');
-	
+	//第三屏
 	xyz.sa.to('.scene3',0.8,{top:0,ease:Cubic.easeInOut,onReverseComplete:function(){
 		threeAnimate.timeline.seek(0,false);
 	}});
@@ -288,7 +288,7 @@ xyz.scrollTurn=function(){
 	xyz.sa.to({},0,{onComplete:function(){
 		threeAnimate.timeline.tweenTo('threeSate2');
 	},onReverseComplete:function(){
-		twoAnimate.timeline.tweenTo('threeSate1');
+		threeAnimate.timeline.tweenTo('threeSate1');
 	}});
 	xyz.sa.to({},0.4,{});
 	xyz.sa.add('threeSate');
