@@ -33,7 +33,7 @@ var data = {
 		{
 			id:4000,
 			pid:2,
-			title:"王杰",
+			title:"陈奕迅",
 			type:"file"
 		},
 		{
@@ -51,28 +51,28 @@ var data = {
 		{
 			id:3000,
 			pid:0,
-			title:"我们的课程",
+			title:"我的资料",
 			type:"file"
 		},
 		{
 			id:9000,
 			pid:3000,
-			title:"js初级课程"
+			title:"css3"
 		},
 		{
 			id:8000,
 			pid:3000,
-			title:"js初级课程"
+			title:"html5"
 		},
 		{
 			id:984744,
 			pid:3000,
-			title:"js中级课程"
+			title:"React.js"
 		},
 		{
 			id:920485,
 			pid:3000,
-			title:"js高级课程"
+			title:"node.js"
 		}
 	]
 }

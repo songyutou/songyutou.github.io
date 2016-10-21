@@ -79,11 +79,11 @@ $(function(){
 	    			$target.get(0).isopen=true;
 	    		}
 	    	}
-//  		else{
+    		else{
 //	    		$target.next().get(0).style.display='none';
-//	    		$target.get(0).isopen=false;
+	    		$target.get(0).isopen=false;
 //	    		$target.removeClass('tree-contro');
-//	    	}
+	    	}
     	}
     	//上部导航菜单添加
         $('.top-nav').html(creatrNav(datas,dataid));
@@ -467,6 +467,7 @@ $(function(){
     	//获取点击的ID
     	
     	var dataid1=$target.get(0).dataset.fileId;
+    	console.log(dataid1)
     	if(!dataid1){
     		return;
     	};
@@ -509,14 +510,19 @@ $(function(){
 							$('.error').html('不能移动到当前或其子文件夹下');	
 							onoff=false;
 						}else{
-							tools.getInfo(datas,dataid).pid=dataid1;	    			
-	    			var tdiv = $('.tree-title[data-file-id="'+dataid+'"]');
+					tools.getInfo(datas,dataid).pid=dataid1;	    			
+	    			var tdiv = $('.tree-title[data-file-id="'+dataid1+'"]');
+	    			//添加样式
+	    			if($(tdiv).hasClass('tree-contro-none')){	    				$(tdiv).removeClass('tree-contro-none').addClass('tree-contro');
+	    			console.log($(tdiv))
+	    			}
 	    			//删除该元素
-	    			$('.tree').html(treeHtml(datas,-1));
+	    			$('.tree-title[data-file-id="'+dataid+'"]').remove();
+//	    			$('.tree').html(treeHtml(datas,-1));
 	    			$('.file-list').html(createFilesHtml(datas,tpid));
 //  			如果没有子集进行的操作
 					if(!tools.hasChilds(datas,tpid)){
-						$('.tree-title[data-file-id="'+pid+'"]').removeClass(' tree-contro').addClass('tree-contro-none');
+						$('.tree-title[data-file-id="'+dataid+'"]').removeClass(' tree-contro').addClass('tree-contro-none');
 						$('.g-empty').show();
 						$('.file-list').hide();
 						}
