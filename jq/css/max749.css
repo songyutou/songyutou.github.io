@@ -1,0 +1,49 @@
+.con div{
+	float: none;	
+}
+.con_r,.foot{
+	width: 100%;
+}
+.con_r{
+	position: relative;
+	top: 0;
+	right: 20px;
+	padding: 0 20px;
+}
+.con_l{
+	width: 100%;
+	padding-left: 0;
+}
+.c_l {
+	width: 100%;
+}
+.img li{
+	float: none;
+	margin: 0 auto;
+	height: 150px;	
+}
+.img li img{
+	width: auto;
+	max-height: 150px;
+}
+.img2 li{
+	float: none;
+	width: 100%;
+}
+.c_r{
+	padding: 0;
+}
+.c_r{
+	width: 100%;
+}
+.ad img{
+	max-width: 277px;
+}
+.f_l,.f_r{
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.xiala{
+	display:none ;
+}
