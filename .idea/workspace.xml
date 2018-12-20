@@ -2,325 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7164eb0c-f516-4b30-b010-f462f54a6907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-bla-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-bla-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-bla-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-bla-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-reg-webfont-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-reg-webfont-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-reg-webfont-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/lato-reg-webfont-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/loader.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/logo_footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/logo_footer2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/btn_menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/icon_close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/icon_keyboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/light_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/light_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/ligth_green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/logo_menu_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/logo_scene1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/scena1_center1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/scena1_center2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/scena1_center3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/scena1_center4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene1/scena1_center5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/ligth_purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step1/step_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step1/step_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step1/step_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step1/step_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step2/step_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step2/step_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step2/step_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step2/step_l.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step3/step_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step3/step_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step3/step_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step3/step_l.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step4/step_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step4/step_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step4/step_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene2/step4/step_l.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/ligth_orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/step_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/step_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/step_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/step_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/step_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene3/step_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene4/icon3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene5/scene5_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene5/scene5_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/img/scene5/scene5_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/js/src/TweenMax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/js/src/jquery-1.8.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds/js/src/jquery.mousewheel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/file-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/folder-tree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/full-tip-r20131224.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/g-empty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/g.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ico-message.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon-phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon-vip-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lay-header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/main-path.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/css/clear.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/css/max462.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/css/max582.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/css/max749.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/css/tool.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/5-16-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/5-16-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/5-16-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/5-16-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/bc85dff2b3dc44ddb9650e1659b1ad1e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/bg-footer-noise.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/famous.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/feature-sprites.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/ibm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/j1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/j2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/j3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/j44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/jq-global-nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/jq-nav-icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/jquery-in-action.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/jquery-succinctly.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/learning-jquery-4th-ed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/line.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/logo-jquery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/logo-maxcdn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/logo-mediatemple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/logo-wordpress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/m.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/m1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/m2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/m3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/maxcdn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/mediatemple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/projectlogosfull-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/seach.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/seach2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/try-jquery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/wordpress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/img/新建文本文档.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/js/shAutoloader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/js/shCore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/js/shLegacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/LGPL-LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/MIT-LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/_theme_template.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCore.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreDefault.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreDjango.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreEclipse.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreEmacs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreFadeToGrey.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreMDUltra.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreMidnight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shCoreRDark.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeDefault.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeDjango.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeEclipse.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeEmacs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeFadeToGrey.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeMDUltra.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeMidnight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/compass/shThemeRDark.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shAutoloader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushAS3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushAppleScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushBash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushCSharp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushColdFusion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushCpp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushCss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushDelphi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushDiff.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushErlang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushGroovy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushJScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushJava.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushJavaFX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushPerl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushPhp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushPlain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushPowerShell.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushPython.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushRuby.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushSass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushScala.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushSql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushVb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shBrushXml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shCore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/scripts/shLegacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/src/shAutoloader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/src/shCore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/src/shLegacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCore.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreDefault.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreDjango.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreEclipse.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreEmacs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreFadeToGrey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreMDUltra.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreMidnight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shCoreRDark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeDefault.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeDjango.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeEclipse.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeEmacs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeFadeToGrey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeMDUltra.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeMidnight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/styles/shThemeRDark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/.rvmrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/brushes/sass.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/brushes_tests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/001_basic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/002_brushes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/003_script_tag.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/004_url_parsing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/005_no_gutter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/006_pad_line_numbers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/007_collapse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/007_collapse_interaction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/008_first_line.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/009_class_name.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/010_highlight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/011_smart_tabs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/012_server_side.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/013_html_script.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/cases/014_legacy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/commonjs_tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/js/jquery-1.4.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/js/qunit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/js/qunit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/syntaxhighlighter_tests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/theme_tests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/webrick.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq/syntaxhighlighter_3.0.83/tests/webrick.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/HtmlRender.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-2.0.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popup/css/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popup/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popup/imgs/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popup/imgs/file-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popup/js/popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popup/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/tool.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/css/clear.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/css/tool.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/ad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/ad2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/ad3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/bimgs/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/bimgs/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/bimgs/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/bimgs/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/bimgs/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/c2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/cai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/d2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/d4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/dian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/h1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/h2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/h3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/j8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/m1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/m2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/m3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/m4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/p1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/p2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/p3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/seicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/shopcar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/sort.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/t9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/v1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/v2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/v3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/v4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/zhang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/img/头条.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/js/m.touch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msn/js/xyz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime~main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/878c136709f05cc812ef4c547498b322.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/e63675e76f0dbcd69e1b24d949b19cff.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugin/testPlugin/testPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors~main.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -335,33 +25,61 @@
     <session id="-1596016293">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -395,11 +113,6 @@
               <item name="songyutou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="songyutou.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="songyutou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="songyutou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -412,6 +125,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -435,23 +153,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545271370237</updated>
-      <workItem from="1545271371576" duration="234000" />
+      <workItem from="1545271371576" duration="818000" />
+      <workItem from="1545274813235" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234000" />
+    <option name="totallyTimeSpent" value="860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-20" y="-1003" width="1440" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -459,6 +175,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -471,8 +191,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

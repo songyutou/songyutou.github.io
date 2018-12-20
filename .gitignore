@@ -5,6 +5,8 @@
 
 # production
 /dist
+*.log
+.idea/
 
 # misc
 .DS_Store
